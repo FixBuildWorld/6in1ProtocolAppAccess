@@ -1,1 +1,31 @@
-hi
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.mobilyv2rayaab": {
+        "isDestroy": false,
+        "isCheck": true,
+        "F6:B5:25:A6:B7:22:AF:66:C6:1C:39:51:77:B3:DB:16:A3:FA:C8:B4:CD:56:E8:2C:7A:66:DA:99:E6:36:50:26": {
+            "cBlockNotice": "aKO0IYW2dPmwYfO1jiIazRavwxINhngMztVn4MhDCP2h61j82p9NFAXpAjtuR+8KoUih3flgL6lwB9zdat3tgKjy++W6XXsMEwJ49ptpa9MkNeB89r8UG3uypVKQQxEtWtx1onBhg0U1QIy5ncyRu9R4QblMheLVmo3FWv0sKVfkx7Ft"
+        }
+    },
+    "app.fixbuild.vpncore.mobilyv2rayapk": {
+        "isDestroy": false,
+        "isCheck": true,
+        "CA:BF:0E:A1:53:9A:DF:5C:09:5B:DC:6D:EB:02:FF:7E:2E:37:DD:FB:FE:88:81:5A:DA:27:8A:93:56:2B:12:1A": {
+            "cBlockNotice": "aKO0IYW2dPmwYfO1jiIazRavwxINhngMztVn4MhDCP2h61j82p9NFAXpAjtuR+8KoUih3flgL6lwB9zdat3tgKjy++W6XXsMEwJ49ptpa9MkNeB89r8UG3uypVKQQxEtWtx1onBhg0U1QIy5ncyRu9R4QblMheLVmo3FWv0sKVfkx7Ft"
+        }
+    },
+     "app.fixbuild.vpncore.mobilyv2raydeb": {
+        "isDestroy": false,
+        "isCheck": true,
+        "39:BE:00:09:D4:55:6B:0D:C6:13:47:1A:CA:D4:8A:4B:EC:B0:5F:7F:6C:B8:0F:EA:84:54:94:2F:E0:E9:B6:5B": {
+            "cBlockNotice": "aKO0IYW2dPmwYfO1jiIazRavwxINhngMztVn4MhDCP2h61j82p9NFAXpAjtuR+8KoUih3flgL6lwB9zdat3tgKjy++W6XXsMEwJ49ptpa9MkNeB89r8UG3uypVKQQxEtWtx1onBhg0U1QIy5ncyRu9R4QblMheLVmo3FWv0sKVfkx7Ft"
+        }
+    },
+     "app.fixbuild.vpncore.stablenetproxybp": {
+        "isDestroy": false,
+        "isCheck": true,
+        "A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC": {
+            "cBlockNotice": "cXwE3jAXeG/cViaWlA3jOXDeRg4DgFc7q+iywZKUI0UuObllXBusfqW947UMfLVKoN2A8bzl8No1ggUc5tsl/Y1AdwW9LGoDFw7bdLb4cKijz2KZ8c6GjaWmtt8ezIcnM4mlccTzxesszbtMCZNyWk8Z1zwoWgFY+nogPp1wao71+6cgB+0EI9lizX2V8KIr2S+u3w=="
+        }
+    }
+}
