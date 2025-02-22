@@ -9,5 +9,12 @@
         "isDestroy": false,
         "isCheck": true,
         "cBlockNotice": "jbOsI4mttvG54OLjtJ5hYCLsIzovRmrrWZYFKygxLBu5DyaQUYT8wwmn0ar3i39xI7aGxQ2J9cpqhBG1eVcKujdMdSuPusc3OqEPJjUmWB4nZdwcsbhbWbiX6byZW6maHXPp/6y4XuQ="
+    },
+    "app.fixbuild.vpncore.noorvipvpnLoginV3": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockGet": "kIbYPXQiFHFW7p7qT+BlHQd2w/2uKA5nwD0PIB9o1ZMGr+klJFMgR5Of3vAL1yM2R2VC18IWDKPLTtDA",
+        "cBlockPost": "mQpuSynjtFYHupEKWv3S8F+0r6cziR4sJ5mHItBSCzIb7VRt7ar2/A==",
+        "cBlockNotice": "jbOsI4mttvG54OLjtJ5hYCLsIzovRmrrWZYFKygxLBu5DyaQUYT8wwmn0ar3i39xI7aGxQ2J9cpqhBG1eVcKujdMdSuPusc3OqEPJjUmWB4nZdwcsbhbWbiX6byZW6maHXPp/6y4XuQ="
     }
 }
