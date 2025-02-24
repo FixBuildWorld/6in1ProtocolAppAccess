@@ -1,0 +1,16 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.mrvipproxy": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockNotice": "DFVJWpsWitx/d3p3QatgAY7gTWsIE9tDxNutTQ4AQ1N6ntW7ohQGeOLKclQP0fsLmh8mXS9/FgMtqXHYEFrLGEOM/90JpWNK8fXEgtS3GUJHg3+nmsyIqaUCDGyeBO4ypesxc6uS1K0="
+    },
+    "app.fixbuild.vpncore.mrvipproxyLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://mistervip.xyz/api/lie6su7yie/auth?",
+        "cBlockGet": "Kedak0hihsZQRa+vf1l3KsEfyyzzu5gFhMROp7/ZSfsSqK73tx7nb9ih6m9L+xOzL90ON8AalEFXMgv7",
+        "cBlockPost": "b7VzQONNzEepG//LQpk4HFXJJjOPyxRjQtRvL+filXgobrbn+6JRlA==",
+        "cBlockNotice": "DFVJWpsWitx/d3p3QatgAY7gTWsIE9tDxNutTQ4AQ1N6ntW7ohQGeOLKclQP0fsLmh8mXS9/FgMtqXHYEFrLGEOM/90JpWNK8fXEgtS3GUJHg3+nmsyIqaUCDGyeBO4ypesxc6uS1K0="
+    }
+}
