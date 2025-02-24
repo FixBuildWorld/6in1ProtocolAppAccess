@@ -1,0 +1,16 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.toofanv2ray": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockNotice": "SBLZsOi+advMaGbtJk93GGuWFZK6sFlmL8U07EK0iw/K9WXhSVjq+2AKL7CeJBOY3Y+/+DxZM8dkjiospZTsOExLdh0KdLMHBz0MG6Ol0EXFg5GahP30d/GK7DjXSalN11y2QvwkbYxNdgEn"
+    },
+    "app.fixbuild.vpncore.toofanv2rayLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://targetvipvpn.xyz/api/neixahj7er/auth?",
+        "cBlockGet": "4w+S69SiGdvQWsEAEY4xdw+Cnd0bAEc99rsMInIiWKwvSPeN6xlPin1yb5wjFdBgMEjcinUUaxAbkufz94OeFw==",
+        "cBlockPost": "QOCVUUpqAv34q3v5TiFrdczd2vK525cUUuxww92Sj+pS+t3GisciYqoRKtU=",
+        "cBlockNotice": "SBLZsOi+advMaGbtJk93GGuWFZK6sFlmL8U07EK0iw/K9WXhSVjq+2AKL7CeJBOY3Y+/+DxZM8dkjiospZTsOExLdh0KdLMHBz0MG6Ol0EXFg5GahP30d/GK7DjXSalN11y2QvwkbYxNdgEn"
+    }
+}
