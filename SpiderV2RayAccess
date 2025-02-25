@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.spiderv2rayLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://spider-v2ray.xyz/api/aer7zexa1f/auth?",
+        "cBlockGet": "oQs7mEBDOUGJrub0988s9dU2KMJWEMKSZTyGOjgrhe8c72hR7+9XFZ1AOy2AsbcabySnV6UhQSVbSeEApuadzQ==",
+        "cBlockPost": "7yQqSue6cjlshBpyibcrICeeyk30G4OgfnVMXij7yo5PyXawB4mkB9nR16E=",
+        "cBlockNotice": "bk1adzNfFv2nNyZ9Lj9LxfwzP9S+SItPTQpCAT834q4HsikN9Jwy+o3TmZkrqK/awwWDsyBnmMscsjMnr2ivXupLM9WMEKaF9Hv3nEp3x62Ob88uJTmai4czNUZv3zqmAemciixEHxbnaAAn"
+    }
+}
