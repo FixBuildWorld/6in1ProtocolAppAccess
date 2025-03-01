@@ -3,9 +3,9 @@
     "app.fixbuild.vpncore.rshridoyproLogin": {
         "isDestroy": false,
         "isCheck": true,
-        "cBlockApi": "https://spider-v2ray.xyz/api/aer7zexa1f/auth?",
-        "cBlockGet": "oQs7mEBDOUGJrub0988s9dU2KMJWEMKSZTyGOjgrhe8c72hR7+9XFZ1AOy2AsbcabySnV6UhQSVbSeEApuadzQ==",
-        "cBlockPost": "7yQqSue6cjlshBpyibcrICeeyk30G4OgfnVMXij7yo5PyXawB4mkB9nR16E=",
-        "cBlockNotice": "bk1adzNfFv2nNyZ9Lj9LxfwzP9S+SItPTQpCAT834q4HsikN9Jwy+o3TmZkrqK/awwWDsyBnmMscsjMnr2ivXupLM9WMEKaF9Hv3nEp3x62Ob88uJTmai4czNUZv3zqmAemciixEHxbnaAAn"
+        "cBlockApi": "https://hridoy.uk/api/files/auth?",
+        "cBlockGet": "NzzZ01z8SWsolMiHkKFc5WTUKi9a+PjCU4zjJrZkIFSD6kt4ohzS8zTyfYE5XgVJQD0UE/dgbBjkzYKYfhYKlw==",
+        "cBlockPost": "uK1mGxNwrESPvZckYp2q39Hk263tgreWtqKPK9I8Po0ZjDnB",
+        "cBlockNotice": "K14QJRBMGeQYRXUnv8I71lHhJeKKGIzRXKt5INaIF2ZObWxzgmniR4HvlkvQh45JGkP69JeaxPjckS5zfNVEb98xbP5O+yIGj9R/wcw9h004icrb5tjsWReKAGl5+ww0JWJb6UbLHp0wV8u9"
     }
 }
