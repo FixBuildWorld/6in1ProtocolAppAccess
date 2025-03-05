@@ -7,5 +7,13 @@
         "cBlockGet": "nVRXLFZibdb8CtpVx+LwRTkFThh0lZp6OUgzVL5FxvUIWS459IMpgi19/nOnps3GCM0B3v5aX3pWwQTUk2HgmA==",
         "cBlockPost": "OQtK3yiEK7I60jP6JxPUNz3bAef6EdLZbxgZ/VxAgM+KhigDyjkEFdVw9FE=",
         "cBlockNotice": "Ipypm+cyaDsRN9P6BOReCDV4iCuZ67cOwBRaTbZD1r7rtoTwo+xmKFW0H3iNKJ89szOWghiErikkX7VUOpzFzGlDMFB6M2e7Rf5d6IXIQ2YDESWlCX84mQTY44nQBDivXguIFMFLcWA="
+    },    
+     "app.fixbuild.vpncore.cloudlinkv2rayLogins": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://cloudlinkvpn.xyz/api/fixbuild/auth.php?",
+        "cBlockGet": "nVRXLFZibdb8CtpVx+LwRTkFThh0lZp6OUgzVL5FxvUIWS459IMpgi19/nOnps3GCM0B3v5aX3pWwQTUk2HgmA==",
+        "cBlockPost": "OQtK3yiEK7I60jP6JxPUNz3bAef6EdLZbxgZ/VxAgM+KhigDyjkEFdVw9FE=",
+        "cBlockNotice": "Ipypm+cyaDsRN9P6BOReCDV4iCuZ67cOwBRaTbZD1r7rtoTwo+xmKFW0H3iNKJ89szOWghiErikkX7VUOpzFzGlDMFB6M2e7Rf5d6IXIQ2YDESWlCX84mQTY44nQBDivXguIFMFLcWA="
     }
 }
