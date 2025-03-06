@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.aloplusv2rayLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://aloplusv2.xyz/api/aipae4thoh/auth?",
+        "cBlockGet": "Qt/SUo1vzMSHk4MS3QU10DwaaN23BXedgl1EKz0rw0sGivmvaCXevv2ad7SM/QwAPNbs33czfXaJ1Oyy",
+        "cBlockPost": "yhnMpeegu1KgxoTJDvRFUPevwpctNazt4gb8or7jY71Oz6aIAXkjOQ==",
+        "cBlockNotice": "AI4IfSd4HNL/EdzIZ6a52zMRit9BeDMjszb00ZGyHCFmIWx4BVoqTGrNpO2lmupRArEUo5tGubKeJWc1/TiSSCY8TiM3ZKZGsTMBdFZPFCtEF2lKNPIrZqgzpTaDgeVtFuvE0s529D3cRiHo"
+    }
+}
