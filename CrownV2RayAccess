@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.crownv2rayLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://drimevpn.xyz/api/cuof7ath0w/auth?",
+        "cBlockGet": "L4+wlPQ9OBUjfYmyNKiHkSJAncevttcd5AJ+OFUDPYbtVcOoolaDr6bFn046vIEXGiHLPfO/V23Z/qiL",
+        "cBlockPost": "3tEgW/ffYBgxcVYzrxuxjfr8n8uL0bNQwLdFjZxJUX+gyMeDNLP2UQ==",
+        "cBlockNotice": "z5ZZSErHo4hqM5XiEWLZFX5Ul6EgnTTwgiU0nljQatTJSY03SUYcy1NLlUgwvHtGqA0uFkKTwXXpTCS47/ltZJNJLL8+ay5eIKZqJHemmQD1KBSmYAz87sFHRABzra6ih7YQ0SJUxaw="
+    }
+}
