@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.fvv2rayLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://fvv2ray.vip/api/shahthei1u/auth?",
+        "cBlockGet": "FkovG6iq2GrcqMOAgFz08rBX/4C2deJTO1uDms4Z5QPg+4R/nRS+HGPM76ZjFpZQSPGLw5Vh6i0mg4nl",
+        "cBlockPost": "aeR/VO1Q9NLcAcRuObSwLPHQeBSqqgJgmE+5K2abfU82u6OQ1P8sNQ==",
+        "cBlockNotice": "CmR+D1+X838KHDAtJprEYEDbptGSa3aNxKTGAyHOirBIsOa/hCvvgqNLCJFtgd4jIbmOAMJLgG3g0ktMv4iK0bNyoKgX8geaaJy0rkHKGYMdmb3z6F5tVBhrdA/mNaU03b4hAuga1fA="
+    }
+}
