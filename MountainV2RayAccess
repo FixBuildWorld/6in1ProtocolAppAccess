@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.tamannav2rayLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://etv2ray.xyz/api/master/auth?",
+        "cBlockGet": "yHMVmjaQ8QUlEyg4reR4LV3moHT+GY98TXD2DqwSD5UxBtb3ej+zHTH7SUijreh5FZzcjOdTjYh++n3HnNyCcg==",
+        "cBlockPost": "N2U1a+vrA2rlGbHyzFM5XA+XDIMpBzBF3uPTuztXGiQi+h/t",
+        "cBlockNotice": "Cxzd5MYSxXUL18rcKxG/p3xQgzsNfD2+RE217LbEZcEYNijrXK8qZcohXOFBauor7mSjSJGpaT47g49MGtb7Sn+PNwtXe1wLgoMBa7mwcRRsDlkYbA/RNnvNbE1RZfOTzvLwn7MVZyHtsoPx"
+    }
+}
