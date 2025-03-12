@@ -1,6 +1,6 @@
 {
     "Message": "This app blocked by developer! Contact: Fixbuild!",
-    "app.fixbuild.vpncore.tamannav2rayLogin": {
+    "app.fixbuild.vpncore.mountainv2rayLogin": {
         "isDestroy": false,
         "isCheck": true,
         "cBlockApi": "https://etv2ray.xyz/api/master/auth?",
