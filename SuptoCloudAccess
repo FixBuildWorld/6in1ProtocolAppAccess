@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.suptocloudLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://supto-v2ray.xyz/api/auth.php?",
+        "cBlockGet": "o6Vc3gZFWedRXAE4Dian2TQMPrqoBqaYU5J8fAOYFVktKuh9Ji2myWhyKITnPaQ5CW9/LKomNShRo3oBWuZOR0HitcQ=",
+        "cBlockPost": "3yTbVWDRg9CGUTIEPkHsSSr8faMu866ebIjM2vjiiVjbi8QdwY6TeA==",
+        "cBlockNotice": "EeRFeRtiOImRokDoxQFakFgXb0ugfovMpvvZ3MV45YKW4Lduiwr+ftdlVJaaiE+E7OTxu2UhMT7KKH9E3I5jW9Qx5BC28uyvBFEWlGekn9lkb7eiGzIiu+bYEXOqlXprYkBUxE6zt10="
+    }
+}
