@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.alomkingv2vpnLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://alomkingv2vpn.xyz/api/auth.php?",
+        "cBlockGet": "T+8ZWQ6xliV2AKKadKbPVnKJ6Dsin6WRC6xcty4DbPK2eMtM9gxn4IkPJXDsrmIiPftGFXcFEchW/vaaETerB3nqOFs=",
+        "cBlockPost": "btpsbdVydwCn0xAmrhoIaYLUGCzsNmD7GqbEU1BAXfJFNwlvfl8wgzF+Rdo=",
+        "cBlockNotice": "EZPeUQ9bE4QYLR39t+oriKLIxQ1VQeNeCSqooVKnVTQhCCJPUYK6lTPMRm64OqYoCOiDbx4zCdsKKW+c29tVCnWxkSmCtZ5m13gCx2dyYjXmmGmsz21ZO3aeOhsqWEW1MK8GqrmhIQgPwrjL"
+    }
+}
