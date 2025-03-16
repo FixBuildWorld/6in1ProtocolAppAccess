@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.premiumtunnelvpn": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://premiumvpn.space/api/files/auth?",
+        "cBlockGet": "Rst8RATWpe0SJiwsIQ8ExsMcRQOM97nF8+mW5WYDSo6Ti3H403obHyGyyfXWGzyXLW8NCjp4K/kR00Eonf7N4HvQihU=",
+        "cBlockPost": "oV/wcxxhWBpGNZl3DqJ1KNhp5w9nm+MbW68zW7d08edgwSC+vivL5hkbO9M=",
+        "cBlockNotice": "u+DfqKdPpHZ6vj10+7HCE8Un5b1pFeB6dTpJRZTxdL7Xp0YawWqmwnRh6+yKoeeOMqQ/g3EDwmLHOg5PUykuMB8FbZYtiPk1kBvqlkjWSEW1mAn6BoFDYVtPks/wMgN6OOie1/McO38+Y2WnAPMrZg=="
+    }
+}
