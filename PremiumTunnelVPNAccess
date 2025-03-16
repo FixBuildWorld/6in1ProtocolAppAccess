@@ -1,6 +1,6 @@
 {
     "Message": "This app blocked by developer! Contact: Fixbuild!",
-    "app.fixbuild.vpncore.premiumtunnelvpn": {
+    "app.fixbuild.vpncore.premiumtunnelvpnLogin": {
         "isDestroy": false,
         "isCheck": true,
         "cBlockApi": "https://premiumvpn.space/api/files/auth?",
