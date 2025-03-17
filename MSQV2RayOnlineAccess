@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.msqv2rayonlineLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://msqv2rayonline.xyz/api/oongai7ahy/auth?",
+        "cBlockGet": "Bk2DynQYL06prlueT490tyHj3fvBZ9xRnRi8DAYkZPHZTlNrqloBN6Y6F1/LyxtqtLDQlbrY+WUMj9Wer8nplQ==",
+        "cBlockPost": "3mak5+n7LE+qyu17Uv0fS2nekxzYpd8GQJSW2s38TNVHUsOV3CScnJTs2PntGaeB",
+        "cBlockNotice": "LXhWHZb5sXIKASYOHTtfNbfqUv+GhDgYHZDzACLaYyI0Mme5NU3f6dohK3d//+pqDxuMmosoq/N/1YNJTe5MGQBwINYZRJFmHsP57smTiKXmtwHFKHGtodjS9rAQRJLl4uTYoT5seidK1Rxe"
+    }
+}
