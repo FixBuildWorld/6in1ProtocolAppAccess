@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.ipowernetvpnLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://ipowernet.xyz/api/tei3aza5je/auth?",
+        "cBlockGet": "naLL2XsK8z7/v83ccabLL/3TX6SeiSeo1CS/yxiavOsTpxciyvoFD2KbnQKforQ76/R+SKc+bDwVwxJ3",
+        "cBlockPost": "ybMHdAljm3EiVu/gL4yh8OHcgo8DtvpoEC+pYfWxBRPHXVnR8mQd+A==",
+        "cBlockNotice": "0tX8H4IyYDnXGNPLvbnL/qsTvJT4sdXT3HFl1oN4yXVq35EDuEOj5LiSnOdb8GcpJS7XUxI1pNnu4MrFkvo+TbWNFapq/IjyjeA8v09jgnrD4rffmutTtUzkLu6A3/dj1yiZZYCh1WhZMLH9"
+    }
+}
