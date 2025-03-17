@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.magnetmastivpnLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://magnetvpn.site/api/files/auth?",
+        "cBlockGet": "RmyHaqSkQ9k5/bodveT1FgAGYZl8pMdxCVXRPS4AaNOH9VztLdJspnU1f7NEgbln4WFJ6gnTt3Af93vQCnJtMbmA1tw=",
+        "cBlockPost": "Gg6SFXvjWRXLnN7KVED5zeuizue0Q08q1CrM+9sWQTFvD3HoQeMy1Q==",
+        "cBlockNotice": "n93Q3vd3ts4S/P9S3YiKVTh97U3i/cpHSxkwYk2VKs86e5YKhL2JmqxYdB1jTX8Up3ceBP3mGwOHm2d6aXn4yMVXrp3WyIReKFNRG9AZx5n+0nzA7peqpLsHyeUlrkM2nCJDQNexNBzSAq/q"
+    }
+}
