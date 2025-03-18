@@ -1,6 +1,6 @@
 {
     "Message": "This app blocked by developer! Contact: Fixbuild!",
-    "app.fixbuild.vpncore.sigmainternetLogin": {
+    "app.fixbuild.vpncore.sproxyv2Login": {
         "isDestroy": false,
         "isCheck": true,
         "cBlockApi": "https://sproxyv2.xyz/api/aike4oob9e/auth?",
