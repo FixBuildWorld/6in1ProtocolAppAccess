@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.sigmainternetLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://sproxyv2.xyz/api/aike4oob9e/auth?",
+        "cBlockGet": "hOWNkoCDNB/chMaxfP6H8osfq4ZUPyzKttbd3ZQn6UCOJ01618iTg1SpsRHL0QbFTMC3KxhkJloNx182",
+        "cBlockPost": "27wLyeuyrhjnmx/8KFnZmK9xbCRLV/scK6AdVvezw01pffip5oObCg==",
+        "cBlockNotice": "2P7+W6dX/BlxrASOG+YlTFtDPi4OgWwPbDaO6cRqRG6yNDh3Z9nP1GGw9ZRnuq5nEkgK0g0HY2Fxjaq0jo+44txba2BgTwYkHPFW0fgkTaS4+EIDj7FPrbTrDrgOfFVgybX1yyrXpCA="
+    }
+}
