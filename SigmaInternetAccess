@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.sigmainternetLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://sigmainternetvpn.xyz/api/files/auth?",
+        "cBlockGet": "lSNLUQd1bOKtwlaxU5y5/gzmykGTuKrJU+sKFbYA7dMn2jADIAMQ4K8wELq5hZnZ/DmJ8A3p3NFtovDpjRG1O5DImON6pEBQ",
+        "cBlockPost": "VouRNiYA1XBC+FLMtwZK53yko4AguBjoyVvEmFzBS+O995Y5GHdelx7cbWfFWARW",
+        "cBlockNotice": "qu/hse97R9FhrY0409FhU+3Vt0c5D/SgB9I40IYAk8YbrAEZ+nW9E0bROs7L722OL4AHGExZ8ZoOSA2Tdbgcbt0iYIZRSw/U4Dxq79eccWbA+X/tISHS6j+Lx9MUmCE1KZCFm6ijFNKHEqc2"
+    }
+}
