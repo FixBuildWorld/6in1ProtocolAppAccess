@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.shawonvipLogin": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "https://todaynet.top/api/auth.php?",
+        "cBlockGet": "zGn9bPF7P50rujAqHxfO/+TE360tYoMPS5vRH9dK+2C2ww3bB9IMTpcY2VkkGTfDqvj7exOXz9zdq+FzQ8hJLQ==",
+        "cBlockPost": "HdNLb/1TCT6JXxIpmm72OPXMyok70wgl0BXmhGQ5MURhzjblQGdFUw==",
+        "cBlockNotice": "y452DTGGdgfXPUStnPBvyFq+DSf2uF/+GXp8nGoTAIoa4tsTX4XlsAOaLwF1fCsSONrmgxNrXSorf7qnCmzW8cAAwjWtBNfqMoa4NcCq99Opcj3F9Ut/5q1W9hRM/gqRz/bgiDs4sUw="
+    }
+}
