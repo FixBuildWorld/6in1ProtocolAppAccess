@@ -3,8 +3,11 @@
     "app.fixbuild.vpncore.toofanv2ray": {
         "isDestroy": false,
         "isCheck": true,
-        "cBlockNotice": "SBLZsOi+advMaGbtJk93GGuWFZK6sFlmL8U07EK0iw/K9WXhSVjq+2AKL7CeJBOY3Y+/+DxZM8dkjiospZTsOExLdh0KdLMHBz0MG6Ol0EXFg5GahP30d/GK7DjXSalN11y2QvwkbYxNdgEn"
-    },
+        "cBlockApi": "wb9jL3/XVIMAEgZkVzSawU2LsS6CEsatIkMGL5qTHMItHAHaDHDJbv2M/Dc50cKvRjZy/g==",
+        "cBlockGet": "4w+S69SiGdvQWsEAEY4xdw+Cnd0bAEc99rsMInIiWKwvSPeN6xlPin1yb5wjFdBgMEjcinUUaxAbkufz94OeFw==",
+        "cBlockPost": "QOCVUUpqAv34q3v5TiFrdczd2vK525cUUuxww92Sj+pS+t3GisciYqoRKtU=",
+        "cBlockNotice": "B9sKyHoJBnP+XlahzZpiXMysiZXuCPCbRJca6hwS2O4QAYQ84JNcJJ0ft/GjKCMNC6X1NWWxbpzx3yNOINQmxN7OvKNLlaC3radaQpBJTYXHenv7G7eAXj/iSH3Mc78pif8hKHER2HkZdJfy8fWo4/BYwM/isyJlD/CvwrKX+aUSDV8/BSxd8TRT5OtIoNJd4Jo8rg=="
+   },
     "app.fixbuild.vpncore.toofanv2rayLogin": {
         "isDestroy": false,
         "isCheck": true,
