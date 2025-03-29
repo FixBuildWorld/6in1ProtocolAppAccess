@@ -1,0 +1,11 @@
+{
+    "Message": "This app blocked by developer! Contact: Fixbuild!",
+    "app.fixbuild.vpncore.uvpn": {
+        "isDestroy": false,
+        "isCheck": true,
+        "cBlockApi": "CjZnoxrZ/dRvo5OiAVYaGJBgnzGsr6iywS/ZuXJGhqiuLucNOCcVEi2VuDk=",
+        "cBlockGet": "VFSt8W0ZMWJVk4j2In8hyaNJlZ2K8x9kcAxe+xvlwy8x2nzbK5pDusD4+5pnMFda5QG/D69V/LRilCfy",
+        "cBlockPost": "n3okjtcmwNQX3Deepu3FTVZ4XEeKQ+G4LfN6Wgui5BT+MiyEHbz05w==",
+        "cBlockNotice": "q0Da4bXihojKpS/j92MTxRdp8gfrAUuKF6/ZVY5bEF7F7SANe97E0+IfPl9U4bprjJnkRFhnRL8j2Bx4R8VyuzYRMfpO5S5A58FULPmwq9OxxC/wyPKnPA3XjAs6dfip+T8ynQ=="
+    }
+}
